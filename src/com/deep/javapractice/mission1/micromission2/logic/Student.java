@@ -1,4 +1,4 @@
-package src.com.deep.javapractice.mission1.micromission2.logic;
+package com.deep.javapractice.mission1.micromission2.logic;
 
 public class Student {
   private String name;

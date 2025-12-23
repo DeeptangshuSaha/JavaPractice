@@ -1,6 +1,6 @@
-package src.com.deep.javapractice.mission1.micromission2.runner;
+package com.deep.javapractice.mission1.micromission2.runner;
 
-import src.com.deep.javapractice.mission1.micromission2.logic.Student;
+import com.deep.javapractice.mission1.micromission2.logic.Student;
 
 public class ProgramB {
   public static void main(String[] args) {

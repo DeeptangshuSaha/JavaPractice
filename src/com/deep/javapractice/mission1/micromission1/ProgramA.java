@@ -1,4 +1,4 @@
-package src.com.deep.javapractice.mission1.micromission1;
+package com.deep.javapractice.mission1.micromission1;
 
 public class ProgramA {
   public static void main(String args[]) {
