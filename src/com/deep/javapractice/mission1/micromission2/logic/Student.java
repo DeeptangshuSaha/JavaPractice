@@ -24,9 +24,11 @@ public class Student {
     this.name = name;
     this.rollNo = rollNo;
     this.marks = marks;
+    System.out.print(this.name + " " + this.rollNo);
   }
 
   public int getGrade() {
     return marks;
   }
+
 }
